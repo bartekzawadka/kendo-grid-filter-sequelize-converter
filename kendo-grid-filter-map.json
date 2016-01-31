@@ -1,0 +1,16 @@
+{
+  "eq": "",
+  "gt": "$gt",
+  "gte": "$gte",
+  "isnotnull": "$ne",
+  "isnull": "",
+  "lt": "$lt",
+  "lte": "$lte",
+  "neq": "$ne",
+  "contains": "$iLike",
+  "doesnotcontain": "$notILike",
+  "endswith": "$iLike",
+  "isempty": "",
+  "isnotempty": "$ne",
+  "startswith": "$iLike"
+}

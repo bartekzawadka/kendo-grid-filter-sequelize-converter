@@ -1,0 +1,23 @@
+{
+  "name": "kendo-grid-filter-sequelize-converter",
+  "version": "1.0.0",
+  "description": "Simple tool for converting Kendo UI Grid filter json to Sequelize 'where' query json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartekzawadka/kendo-grid-filter-sequelize-converter.git"
+  },
+  "keywords": [
+    "kendo",
+    "sequelize"
+  ],
+  "author": "Bartek Zawadka <kontakt@bartroszzawadka.pl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartekzawadka/kendo-grid-filter-sequelize-converter/issues"
+  },
+  "homepage": "https://github.com/bartekzawadka/kendo-grid-filter-sequelize-converter#readme"
+}
